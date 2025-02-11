@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dishank</h1>
-<h3 align="center">A passionate Tech Guy from India.</h3>
+<h3 align="center">Probably the Guy U lookin for...</h3>
 
 - 🔭 I’m currently working on [Llama 3.2](https://github.com/dishank1112/Linkedin-Post-Generator/)
 
